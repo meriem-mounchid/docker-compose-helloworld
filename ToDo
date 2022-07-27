@@ -1,0 +1,24 @@
+# ----------------------------------------- #
++ Docker
+    - install docker 
+    - container management
+    - image management
+    - inspecting containers
+    - docker networking
+    - docker volumes
+    - creating dockerfiles
+    - using docker compose
+    - docker swarm
++ Theory:
+        Monolithic application vs Microservices
+    Containers vs Virtual Machines
++ Installation
+    - Lab environment setup
+    - Installing Docker
+    - Docker Commands
+    - Docker Version
+    - Docker Aliases
+    - Pulling a Docker Image
+    - Docker Hub
+    - Creating a Docker Container
+    - Sending a shell command to a container
